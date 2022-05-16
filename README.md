@@ -20,7 +20,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Sign In / Sign Up Form</h3>
+  <h3 align="center">Restaurant UI with React</h3>
 
   <p align="center">
     This is a React Project!
@@ -55,7 +55,6 @@
 ### Built With
 
 - [React.js](https://reactjs.org/)
-- [Material UI](https://mui.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,10 +62,10 @@
 
 ## Getting Started
 
-- New user can sign up with creating password & email.
-- Old user can sign in with their password & email
-- Material UI for styling.
-- User can recover their password, if they forgot it.
+- React Functional components and their reusability
+- Fundamental CSS properties to master flex & grid
+- Fundamentals of the CSS BEM Model
+- Media queries for satisfactory responsiveness covering almost devices
 
 ### Prerequisites
 
@@ -81,7 +80,7 @@ Install the dependencies:
 
 - Clone the repo
   ```sh
-  git clone https://github.com/programmer-shaheb/login_registration_form_material-ui.git
+  git clone https://github.com/programmer-shaheb/food_restaurant_react_project.git
   ```
 - Install NPM packages
   ```sh
@@ -96,14 +95,6 @@ Install the dependencies:
 
 Abidur Rahman - [Linkedin](https://www.linkedin.com/in/abidur-rahman-akash/) - abidurrahman471@gmail.com
 
-Project Link: [React JS Task](https://github.com/programmer-shaheblogin_registration_form_material-ui)
+Project Link: [React JS Task](https://github.com/programmer-shaheb/food_restaurant_react_project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
